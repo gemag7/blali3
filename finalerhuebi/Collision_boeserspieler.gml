@@ -1,0 +1,6 @@
+show_message("HÜbi: ich hätte niemals gedacht dass du es schaffst ")
+  show_message("Hübi: wir stehen alle tief in deiner Schuld")
+    show_message("Hübi: du willst wohl nach Hause ich  lasse dich Persönlich dorthin bringen")
+	  show_message("Hübi: jemand mit deinem Talent sollte sich mit Baui messen der Auftrag ist hier")
+	    show_message("Hübi: ich verspreche dass wir uns wiedersehen werden")
+		room_goto(credits)
